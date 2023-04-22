@@ -2,3 +2,5 @@ dogs
 cats
 tigers
 fish
+lions
+parrots
