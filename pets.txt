@@ -4,3 +4,6 @@ tigers
 fish
 lions
 parrots
+sea lions 
+chicks
+snakes
